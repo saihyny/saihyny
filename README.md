@@ -7,7 +7,7 @@ I'm a passionate full-stack developer with a love for building scalable web appl
 - 🌱 I’m currently deepening my expertise in **React**, **Next.js**, and **Node.js**.
 - 🎯 My focus is on building responsive, high-performance web applications.
 - 💬 I love collaborating with fellow developers and contributing to open-source projects.
-- 📫 Feel free to reach out to me via [Email](mailto: satyasaikiranrocks@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luke.jr).
+- 📫 Feel free to reach out to me via [Email](mailto: satyasaikiranrocks@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luke-jr-9051ab1ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ## Skills
 
